@@ -25,4 +25,8 @@ Android uchun **Jetpack Compose** asosida yozilgan interaktiv “pufak” (bubbl
 
 1. Repozitoriyni klonlang yoki yuklab oling.  
 2. Android Studio da loyihani oching.  
-3. USB yoki emulyator orqali **API 33+** qurilma tanlang.  
+3. USB yoki emulyator orqali **API 33+** qurilma tanlang.
+
+
+## 📹 Video
+<video src="https://github.com/user-attachments/assets/d9ed633c-cdad-4ecb-af66-f43b2a37b7a2" width="600" controls></video>
